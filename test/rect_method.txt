@@ -1,0 +1,1 @@
+rectangle method 2*x+5
